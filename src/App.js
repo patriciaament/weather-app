@@ -31,7 +31,7 @@ function App() {
       <div className="container">
         <div className="top">
           <div className="location">
-            <p>
+            <p className="bold">
               {data.name}
             </p>
           </div>
